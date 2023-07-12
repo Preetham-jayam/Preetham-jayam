@@ -7,7 +7,7 @@
 
 - 🌎 I’m from **Anantapur**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Java,NodeJs,Html,Css,Js**
 
